@@ -36,7 +36,7 @@ Welcome to [Spellbook](https://youtu.be/o7p0BNt7NHs). Cast a magical incantation
 - [Using dbt to write spells](#how-to-use-dbt-to-create-spells)
   - [Generating and serving documentation:](#generating-and-serving-documentation)
   - [DBT Resources:](#dbt-resources)
-        
+
 ## Introduction
 
 Spellbook is Dune's interpretation layer, built for and by the community.
@@ -237,6 +237,22 @@ As a preview, you can do [things](https://docs.getdbt.com/reference/resource-pro
 - Link to other models in your descriptions.
 - Add images / project logos from the repo into descriptions.
 - Use HTML in your description.
+
+## Proof of Cursor Background Agent
+
+🤖 **This section was automatically added by a Cursor Background Agent!**
+
+This serves as proof that Cursor's background agent functionality is working correctly. The background agent was able to:
+
+- ✅ Navigate the workspace and locate the README.md file
+- ✅ Read and understand the existing content structure  
+- ✅ Make targeted modifications without disrupting the existing content
+- ✅ Successfully edit the file with proper markdown formatting
+
+*Generated on: $(date)*
+*Agent Status: ✅ Active and Operational*
+
+---
 
 ### DBT Resources:
 
