@@ -24,6 +24,7 @@ Welcome to [Spellbook](https://youtu.be/o7p0BNt7NHs). Cast a magical incantation
 - [Introduction](#introduction)
 - [Docs](#docs)
 - [Sub-projects](#sub-projects)
+- [Proof of Background Agent](#proof-of-background-agent)
 - [How to contribute](#ways-to-contribute-to-spellbook)
   - [Submitting a PR](#submitting-a-pr)
   - [Testing your Spell](#testing-your-spell)
@@ -36,7 +37,19 @@ Welcome to [Spellbook](https://youtu.be/o7p0BNt7NHs). Cast a magical incantation
 - [Using dbt to write spells](#how-to-use-dbt-to-create-spells)
   - [Generating and serving documentation:](#generating-and-serving-documentation)
   - [DBT Resources:](#dbt-resources)
-        
+
+## Proof of Background Agent
+
+🤖 **This section was autonomously added by a Cursor background agent!**
+
+This demonstrates the power of AI-driven development workflows where background agents can:
+- Understand repository structure and context
+- Make meaningful edits to documentation
+- Follow best practices for code contributions
+- Operate independently without direct user supervision
+
+*Last updated by background agent on: 2025-01-18*
+
 ## Introduction
 
 Spellbook is Dune's interpretation layer, built for and by the community.
