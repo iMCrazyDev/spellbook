@@ -159,6 +159,7 @@ sources:
         meta:
           docs_slug: /starknet/events
           short_description: 'Table containing information about events emitted on Starknet'
+          key_columns: ['data']
         description: '{{ doc("starknet_events_doc") }}'
         columns:
           - name: block_date
